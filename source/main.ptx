@@ -6,7 +6,7 @@
   <xi:include href="./docinfo.ptx" />
   <!-- By creating a PreTeXt "book" for the course, we can split components into "chapters" -->
   <book>
-    <title>Abstract Algebra</title>
+    <title>Precalculus</title>
 
     <subtitle>MATH 180 Spring 2026</subtitle>
 
