@@ -8,7 +8,7 @@
   <book>
     <title>Abstract Algebra</title>
 
-    <subtitle>MATH 419 Spring 2026</subtitle>
+    <subtitle>MATH 180 Spring 2026</subtitle>
 
     <!-- Optional: include frontmatter with author info and date -->
     <xi:include href="./frontmatter.ptx" />
