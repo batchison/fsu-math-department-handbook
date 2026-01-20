@@ -58,6 +58,12 @@
             </li>
             <li>
               <p>
+                Read all covered sections of the textbook.
+                Reading is absolutely crucial to learning mathematics.
+              </p>
+            </li>
+            <li>
+              <p>
                 Complete homework assignments carefully, thoughtfully, and on time.
               </p>
             </li>
@@ -76,13 +82,6 @@ Make sure you test yourself before I do!
               <p>
                 For each credit hour spend at least two hours working on the material outside of class.
                 For us that means at least eight hours of work per week outside of class.
-              </p>
-            </li>
-            <li>
-              <p>
-                Read all covered sections of the textbook.
-                Reading is absolutely crucial to learning Abstract Algebra.
-                You cannot learn to write proofs without reading examples of successful proofs.
               </p>
             </li>
           </ul>
@@ -146,6 +145,10 @@ Make sure you test yourself before I do!
       -->
       Use of Generative AI is prohibited because this emerging technology cannot do mathematics.
       It can only mimic mathematics and lead learners astray.
+      The idea of optimized frictionless learning is a myth.
+      I expect that at times you will get stuck.
+      That is the goal!
+      Quickly turning to GenAI will not prepare you for exams.
     </p>
   </subsection>
 
