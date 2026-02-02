@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="Faculty">
+
+  <title>Full-time Faculty</title>
+  
+<tabular halign="left">
+        <row header="yes" bottom="minor" >
+          <cell>Name</cell>
+          <cell>Office</cell>
+          <cell>Email</cell>
+          <cell>Phone</cell>
+        </row>
+        <row>
+          <cell>Sheree Arpin, Ph.D.</cell>
+          <cell>HH 402I</cell>
+          <cell>sarpin@framingham.edu</cell>
+          <cell>x4776</cell>
+        </row>
+        <row>
+          <cell>Benjamin Atchison, Ph.D.</cell>
+          <cell>HH 402E</cell>
+          <cell>batchison@framingham.edu</cell>
+          <cell>x4725</cell>
+        </row>
+        <row>
+          <cell>Michael Krul, Ph.D., Chair</cell>
+          <cell>HH 402H</cell>
+          <cell>mkrul@framingham.edu</cell>
+          <cell>x4877</cell>
+        </row>
+        <row>
+          <cell>Julie Levandosky, Ph.D.</cell>
+          <cell>HH 402G</cell>
+          <cell>jlevandosky@framingham.edu</cell>
+          <cell>x4722</cell>
+        </row>
+        <row>
+          <cell>Sarah Mabrouk, Ph.D.</cell>
+          <cell>HH 402B</cell>
+          <cell>smabrouk@framingham.edu</cell>
+          <cell>x4785</cell>
+        </row>
+        <row>
+          <cell>Matthew Moynihan, Ph.D.</cell>
+          <cell>HH 402D</cell>
+          <cell>mmoynihan5@framingham.edu</cell>
+          <cell>x4728</cell>
+        </row>
+        <row>
+          <cell>Robert Page, Ph.D.</cell>
+          <cell>HH 402F</cell>
+          <cell>rpage@framingham.edu</cell>
+          <cell>x4773</cell>
+        </row>
+        <row>
+          <cell>Mohammad Salmassi, Ph.D.</cell>
+          <cell>HH 402J</cell>
+          <cell>msalmassi@framingham.edu</cell>
+          <cell>x4751</cell>
+        </row>
+        <row>
+          <cell>Nicholas Sedlock, Ph.D.</cell>
+          <cell>HH 404D</cell>
+          <cell>nsedlock@framingham.edu</cell>
+          <cell>x4727</cell>
+        </row>
+        <row>
+          <cell>Christopher Staniszewski, Ph.D.</cell>
+          <cell>HH 402C</cell>
+          <cell>cstaniszewski@framingham.edu</cell>
+          <cell>x4710</cell>
+        </row>
+        <row>
+          <cell>Njesa Totty, Ph.D.</cell>
+          <cell>HH 404C</cell>
+          <cell>ntotty@framingham.edu</cell>
+          <cell>x5765</cell>
+        </row>
+      </tabular>
+  </section>
