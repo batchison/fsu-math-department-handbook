@@ -6,9 +6,9 @@
   
       <tabular halign="left">
         <col width="35%"/>
-        <col width="15%"/>
+        <col width="25%"/>
         <col width="35%"/>
-        <col width="15%"/>
+        <col width="5%"/>
         <row header="yes" bottom="minor" >
           <cell>Name</cell>
           <cell>Office</cell>
