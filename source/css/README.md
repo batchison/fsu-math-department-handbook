@@ -8,6 +8,5 @@ These SCSS files were adapted from the PreTeXt default-modern theme. Changes inc
 2. In your publication.ptx file:
     1. Set `/css/@theme` to `"custom"` in your publication.ptx file.
     2. Enter new argument `/css/@entry-point` and set to `"./css/theme-framingham.scss"`.
-    3. Optional: remove other `css` options.
-    4. Update any `toc` tags to `tableofcontents`.
+    3. Update any `toc` tags to `tableofcontents`.
 3. Run 'pretext build web'.
