@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-volume-assignment">
+    <title>MATH 220 Project - Cup Design</title>
+    <p> This is a sample assignment for students enrolled in MATH 220. </p>
+    <p>
+        The primary objective of this assignment is for students to design a model for a 3D-printed cup or vessel using both Desmos and Autodesk Fusion 360. Ultimately, students should be able to obtain a 3D-printed version of their design through the STEM departments or FSU IT Services. Below are the requirements for a finished cup design.
+        <ul>
+            <li>
+                <p>
+                    Standard dimensions should be metric (centimeters and millimeters preferred).
+                </p>
+            </li>
+            <li>
+                <p>
+                    All designs must have a minimum base radius of 2 centimeters and a minimum height of 10 centimeters.
+                </p>
+            </li>
+            <li>
+                <p>
+                    Designs must hold a minimum volume of half a liter, maximum 550 mL.
+                </p>
+            </li>
+        </ul>
+    </p>
+    <p>
+        For this assignment, students should complete the following.
+        <ol>
+            <li>
+                <p>
+                    Watch the following video in its entirety:
+                </p>
+                <video youtube="k6F07BW4gAg"/>
+            </li>
+            <li>
+                <p>
+                    Use <url href="https://www.desmos.com/">Desmos</url> to create a 2D cross-section of a cup design.
+                    <ul>
+                        <li>
+                            <p>
+                                2D cross-sections should be located in Quadrant I, and represent the area to be rotated about the <m>y-</m> or <m>x-</m> axis.
+                            </p>
+                        </li>
+                        <li>
+                            <p>
+                                Only non-linear functions should be used for the vertical walls of the resulting solid.
+                            </p>
+                        </li>
+                        <li>
+                            <p>
+                                Using the same Desmos page, evaluate integrals for both the volume contained from the resulting solid and the amount of material needed for design construction.
+                            </p>
+                        </li>
+                        <li>
+                            <p>
+                                The resulting Desmos page should be saved and a link to the page shared with the instructor. Because of this, it is recommended that students create a free Desmos account before getting started.
+                            </p>
+                        </li>
+                        <li>
+                            <p>
+                                The following link is meant as a guiding example. It is more complicated than is necessary for completing this part of the assignment. <url href="https://www.desmos.com/calculator/roqh4hg5w4">Desmos Example</url>
+                            </p>
+                        </li>
+                    </ul>
+                </p>
+            </li>
+            <li>
+                <p>
+                    Create a free student account for Autodesk Fusion 360. using Autodesk Fusion 360 and the referenced video, generate a rendering of the 3D solid that can be used for printing purposes. Email a copy of your 3D rendering to the instructor.
+                </p>
+            </li>
+        </ol>
+    </p>
+    <sidebyside width="45%" margins="2%">
+        <figure xml:id="desmos-example">
+            <caption>2D region created in Desmos</caption>
+            <image source="volume-desmos-example.png">
+                <shortdescription>Desmos Example</shortdescription>
+            </image>
+        </figure>
+
+        <figure xml:id="autodesk-example">
+            <caption>3D solid generated using Autodesk Fusion 360</caption>
+            <image source="volume-autodesk-example.png">
+                <shortdescription>Autodesk Example</shortdescription>
+            </image>
+        </figure>
+    </sidebyside>
+</section>
