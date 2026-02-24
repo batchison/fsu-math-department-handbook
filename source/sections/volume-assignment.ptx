@@ -71,4 +71,19 @@
             </li>
         </ol>
     </p>
+    <sidebyside width="45%" margins="2%">
+        <figure xml:id="desmos-example">
+            <caption>2D region created in Desmos</caption>
+            <image source="volume-desmos-example.png">
+                <shortdescription>Desmos Example</shortdescription>
+            </image>
+        </figure>
+
+        <figure xml:id="autodesk-example">
+            <caption>3D solid generated using Autodesk Fusion 360</caption>
+            <image source="volume-autodesk-example.png">
+                <shortdescription>Autodesk Example</shortdescription>
+            </image>
+        </figure>
+    </sidebyside>
 </section>
