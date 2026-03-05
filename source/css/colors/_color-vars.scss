@@ -87,12 +87,12 @@ $colors: (
   // ------------------------------------------------------------------------------
   // Links & knowls
 
-  "link-text-color": #2B5F82,
+  "link-text-color": #5B87DA,
   "link-background": transparent,
   "link-active-text-color": var(--link-text-color),
   "link-active-background": #cad2e1,
 
-  "link-alt-text-color": #A62E1C,
+  "link-alt-text-color": var(--link-text-color),
   "link-alt-background": transparent,
   "link-alt-active-text-color": var(--link-alt-text-color),
   "link-alt-active-background": #e3d1ce,
