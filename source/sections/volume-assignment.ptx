@@ -93,7 +93,7 @@
                 f(y) = \frac{ \cos \ y}{5} + \frac{2}{15} y + \frac{11}{4} \\
             </mrow>
             <mrow>
-                g(y) = f(y) = \frac{ \cos \ y}{5} + \frac{2}{15} y + \frac{11}{4} \\
+                g(y) = \frac{ \cos \ y}{5} + \frac{2}{15} y + 3 \\
             </mrow>
             <mrow>
                 0 \le y \le 13
