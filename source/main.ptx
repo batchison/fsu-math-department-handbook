@@ -16,7 +16,8 @@
     <xi:include href="./sections/welcome.ptx"/>
     <xi:include href="./sections/faculty.ptx"/>
     <xi:include href="./sections/math-program-reqs.ptx"/>
-
+    <xi:include href="./sections/careers.ptx"/>
+    <xi:include href="./sections/volume-assignment.ptx"/>
   </article>
 
   </pretext>

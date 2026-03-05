@@ -147,7 +147,7 @@
     <!-- https://pretextbook.org/doc/guide/html/publication-file-online.html#online-style-options -->
     <css
         theme="custom"
-        entry-point="./css/targets/html/framingham/theme-framingham.scss"
+        entry-point="./css/theme-framingham.scss"
         provide-dark-mode="yes"
     />
 
