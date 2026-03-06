@@ -23,12 +23,23 @@
         <title>Additional Resources</title>
         <p>
             The mathematical organizations, The Mathematical Association of America, and The American Mathematical Society, have created websites that can be helpful to students who are considering careers in mathematics and/or graduate school. Some of these websites are listed below:
-        </p>
-        <p>
-            Careers: <url href="https://maa.org/career-center/">MAA Career Center</url>
-        </p>
-        <p>
-            Resources for Undergraduates Web Page:
+            <ul>
+                <li>
+                    <p>
+                        <url href="https://maa.org/career-center/">MAA Career Center</url>
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        <url href="https://www.ams.org/learning-careers/students/undergraduate">AMS For Undergrads</url>
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        <url href="https://www.ams.org/grants-awards/ams-fellowships/ams-fellowships">AMS Fellowships</url>
+                    </p>
+                </li>
+            </ul>
         </p>
     </subsection>
 </section>
