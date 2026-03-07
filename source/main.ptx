@@ -11,11 +11,12 @@
     <subtitle>Student Handbook</subtitle>
 
     <!-- Optional: include frontmatter with author info and date -->
-    <!--<xi:include href="./frontmatter.ptx" />-->
+    <xi:include href="./frontmatter.ptx" />
    
     <xi:include href="./sections/welcome.ptx"/>
     <xi:include href="./sections/faculty.ptx"/>
-    <xi:include href="./sections/math-program-reqs.ptx"/>
+    <xi:include href="./sections/major-reqs.ptx"/>
+    <xi:include href="./sections/minor-reqs.ptx"/>
     <xi:include href="./sections/careers.ptx"/>
     <xi:include href="./sections/volume-assignment.ptx"/>
   </article>

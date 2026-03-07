@@ -1,109 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<section xml:id="sec-math-program-reqs">
-    <title>Program Requirements and Four-Year Plans</title>
-    <subsection xml:id="subsec-basic-reqs">
-        <title>Mathematics Program Requirements</title>
+<section xml:id="sec-minor-reqs">
+    <title>Minor Requirements</title>
+    <introduction>
+        <p>The Mathematics department offers four minors.</p> 
             <p>
-                <dl>
+                <ul>
                     <li>
-                        <title>STAT 157</title>
-                        <p>
-                            Probability and Statistics
-                        </p>
+                        <p>Minor in Mathematics (5 courses)</p>
                     </li>
                     <li>
-                        <title>MATH 206</title>
-                        <p>
-                            Discrete Mathematics I
-                        </p>
+                        <p>Minor in Statistics (5 courses)</p>
                     </li>
                     <li>
-                        <title>MATH 219</title>
-                        <p>
-                            Calculus I
-                        </p>
+                        <p>Minor in Elementary Education (6 courses)</p>
                     </li>
                     <li>
-                        <title>MATH 220</title>
-                        <p>
-                            Calculus II
-                        </p>
+                        <p>Minor in Artificial Intelligence (5 courses) - Interdepartmental with Computer Science</p>
                     </li>
-                    <li>
-                        <title>MATH 221</title>
-                        <p>
-                            Calculus III
-                        </p>
-                    </li>
-                    <li>
-                        <title>MATH 226</title>
-                        <p>
-                            Linear Algebra
-                        </p>
-                    </li>
-                    <li>
-                        <title>MATH 419</title>
-                        <p>
-                            Abstract Algebra I
-                        </p>
-                    </li>
-                    <li>
-                        <title>MATH 427</title>
-                        <p>
-                            Real Analysis
-                        </p>
-                    </li>
-                    <li>
-                        <title>CSCI xxx</title>
-                        <p>
-                            One Computer Science Course
-                        </p>
-                    </li>
-                </dl>
+                </ul>
             </p>
-            <p>
-                In addition to those courses listed above, each student must complete the major requirements described in the following sections.
-            </p>
-    </subsection>
-    <subsection xml:id="subsec-umag">
-        <title>General Mathematics Program (UMAG)</title>
-        <p>
-            Students enrolled in the UMAG program must complete five electives from the following list.
-            <ul>
-                <li>
-                    <p>
-                        MATH 222 Differential Equations
-                    </p>
-                </li>
-                <li>
-                    <p>
-                        Any MATH/STAT course at the 300-level or above.
-                    </p>
-                </li>
-            </ul>
-        </p>
-    </subsection>
-    <subsection xml:id="subsec-umat">
-        <title>Minor in Secondary Education (UMAT)</title>
-        <p>
-            Students enrolled in the UMAT program must complete MATH 317 Higher Geometry, MATH 322 History of Mathematics, and three electives from the following list.
-            <ul>
-                <li>
-                    <p>
-                        MATH 222 Differential Equations
-                    </p>
-                </li>
-                <li>
-                    <p>
-                        Any MATH/STAT course at the 300-level or above
-                    </p>
-                </li>
-            </ul>
-        </p>
-        <p>
-            It is important to note that middle school or high school student teaching occurs only in the Spring semester. Please see the University Catalog for additional information on teacher education programs.
-        </p>
-    </subsection>
+        <p>Listed below are the requirements for each minor.</p>
+        <p>All information provided here is taken from the AY 2025-2026 University Catalog.  For the most up-to-date course information and program requirements, students should consult with their appointed academic advisor, as well as the <url href="https://www.framingham.edu/academics/catalogs">University Catalog</url> that corresponds to their year of admission/matriculation.</p>
+    </introduction>
     <subsection xml:id="subsec-math-minor">
         <title>Mathematics Minor</title>
         <p>
