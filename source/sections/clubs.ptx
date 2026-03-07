@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section xml:id="clubs">
+    <title>Clubs and Student Involvement</title>
+    <subsection xml:id="subsec-math-club">
+        <title>Math Club</title>
+        <p>
+            The Math Club is a student-led organization that periodically coordinates social gatherings, student and faculty presentations, and other events. Math Club membership is comprised of students from a variety of majors who have an interest in and appreciation for all things math-related.
+        </p>
+        <p>
+            Students who are interested in joining the Math Club or attending future events should contact the department Chair.
+        </p>
+    </subsection>
+    <subsection xml:id="subsec-stem-club">
+        <title>STEM Club</title>
+        <p>
+            The STEM Club is a student-led organization that periodically coordinates social gatherings, student and faculty presentations, and other events. STEM Club membership is comprised of students from a variety of STEM departments and majors who have an interest in and appreciation for all things STEM-related.
+        </p>
+        <p>
+            Students who are interested in joining the STEM Club or attending future events should contact the department Chair or Dean of STEM.
+        </p>
+    </subsection>
+    <subsection xml:id="subsec-conferences">
+        <title>Conferences</title>
+        <p>Occasionally during the school year, the department will coordinate student attendance at regional and national conferences. These conferences provide students with the opportunity to present their research, attend talks by undergraduates, graduate students, and faculty, and network with other students and faculty from around Massachusetts and New England.</p>
+        <p>Funding is often available through the department and College of STEM to offset student registration costs for attending local conferences.  If you are interested in attending a conference or learning more about the events going on in the region, contact the department Chair, your instructor, or your appointed advisor.</p>
+        <p><url href="https://www.northeastern.maa.org/events">MAA Northeastern Section Events Page</url></p>
+        <p><url href="https://maa.org/events/">MAA National Events Page</url></p>
+        <p><url href="https://www.ams.org/meetings">AMS National &amp; Sectional Events Page</url></p>
+    </subsection>
+</section>
