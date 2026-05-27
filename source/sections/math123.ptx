@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section xml:id="math123">
+    <title>MATH 123 Introduction to Functions</title>
+    <introduction>
+        <p>Beginning in AY 2026-27, the MATH 123 Introduction to Functions course will use a common open educational resource as its primary text.  This decision was made to both reduce required material costs for students and streamline the learning experience across all sections of the course.</p>
+        <p>For the current academic year, the Mathematics department had selected <url href="https://openstax.org/details/books/college-algebra-2e">OpenStax's College Algebra 2e</url> as the required MATH 123 textbook.</p>
+    </introduction>
+    <subsection xml:id="math123-mapping">
+        <title>MATH 123 Course Topics &amp; Suggested Ordering</title>
+        <p>Below is a suggested ordering of topics that should be covered in MATH 123, as well as links to the corresponding section in the course textbook.  While the ordering of topics is ultimately up to the instructor, it is expected that all topics listed below will be treated and assessed in the course.</P>
+        <p><url href="https://openstax.org/books/college-algebra-2e/pages/2-1-the-rectangular-coordinate-systems-and-graphs"></url>The Rectangular Coordinate Systems and Graphs</p>
+        <p><url href="https://openstax.org/books/college-algebra-2e/pages/4-1-linear-functions"></url>Linear Functions</p>
+        <p><url href="https://openstax.org/books/college-algebra-2e/pages/2-2-linear-equations-in-one-variable">Linear Equations in One Variable</url></p>
+        <p><url href="https://openstax.org/books/college-algebra-2e/pages/2-3-models-and-applications"></url>Linear Models and Applications</p>
+        <p><url href="https://openstax.org/books/college-algebra-2e/pages/2-7-linear-inequalities-and-absolute-value-inequalities">Linear Inequalities and Absolute Value Inequalities</url></p>
+        <p><url href="https://openstax.org/books/college-algebra-2e/pages/2-4-complex-numbers"></url>Complex Numbers</p>
+        <p><url href="https://openstax.org/books/college-algebra-2e/pages/2-5-quadratic-equations">Quadratic Equations</url></p>
+        <p><url href="https://openstax.org/books/college-algebra-2e/pages/2-6-other-types-of-equations">Other Types of Equations</url></p>
+    </subsection>
+</section>
