@@ -6,15 +6,32 @@
         <p>For the current academic year, the Mathematics department had selected <url href="https://openstax.org/details/books/college-algebra-2e">OpenStax's College Algebra 2e</url> as the required MATH 123 textbook.</p>
     </introduction>
     <subsection xml:id="math123-mapping">
-        <title>MATH 123 Course Topics &amp; Suggested Ordering</title>
+        <title>Course Topics &amp; Suggested Ordering</title>
         <p>Below is a suggested ordering of topics that should be covered in MATH 123, as well as links to the corresponding section in the course textbook.  While the ordering of topics is ultimately up to the instructor, it is expected that all topics listed below will be treated and assessed in the course.</p>
-        <p><url href="https://openstax.org/books/college-algebra-2e/pages/2-1-the-rectangular-coordinate-systems-and-graphs">The Rectangular Coordinate Systems and Graphs</url></p>
-        <p><url href="https://openstax.org/books/college-algebra-2e/pages/4-1-linear-functions">Linear Functions</url></p>
-        <p><url href="https://openstax.org/books/college-algebra-2e/pages/2-2-linear-equations-in-one-variable">Linear Equations in One Variable</url></p>
-        <p><url href="https://openstax.org/books/college-algebra-2e/pages/2-3-models-and-applications">Linear Models and Applications</url></p>
-        <p><url href="https://openstax.org/books/college-algebra-2e/pages/2-7-linear-inequalities-and-absolute-value-inequalities">Linear Inequalities and Absolute Value Inequalities</url></p>
-        <p><url href="https://openstax.org/books/college-algebra-2e/pages/2-4-complex-numbers">Complex Numbers</url></p>
-        <p><url href="https://openstax.org/books/college-algebra-2e/pages/2-5-quadratic-equations">Quadratic Equations</url></p>
-        <p><url href="https://openstax.org/books/college-algebra-2e/pages/2-6-other-types-of-equations">Other Types of Equations</url></p>
+        <p><url href="https://openstax.org/books/college-algebra-2e/pages/2-1-the-rectangular-coordinate-systems-and-graphs">The Rectangular Coordinate Systems and Graphs (OpenStax Section 2.1)</url></p>
+        <p><url href="https://openstax.org/books/college-algebra-2e/pages/3-1-functions-and-function-notation"></url>Functions and Function Notation (3.1)</p>
+        <p><url href="https://openstax.org/books/college-algebra-2e/pages/4-1-linear-functions">Linear Functions (4.1)</url></p>
+        <p><url href="https://openstax.org/books/college-algebra-2e/pages/2-2-linear-equations-in-one-variable">Linear Equations in One Variable (2.2)</url></p>
+        <p><url href="https://openstax.org/books/college-algebra-2e/pages/2-3-models-and-applications">Linear Models and Applications (2.3)</url></p>
+        <p><url href="https://openstax.org/books/college-algebra-2e/pages/3-6-absolute-value-functions">Absolute Value Functions (3.6)</url></p>
+        <p><url href="https://openstax.org/books/college-algebra-2e/pages/2-7-linear-inequalities-and-absolute-value-inequalities">Linear Inequalities and Absolute Value Inequalities (2.7)</url></p>
+        <p><url href="https://openstax.org/books/college-algebra-2e/pages/7-1-systems-of-linear-equations-two-variables">Systems of Linear Equations: Two Variables (7.1)</url></p>
+        <p><url href="https://openstax.org/books/college-algebra-2e/pages/3-2-domain-and-range">Domain and Range (3.2)</url></p>
+        <p><url href="https://openstax.org/books/college-algebra-2e/pages/3-3-rates-of-change-and-behavior-of-graphs">Rates of Change and Behavior of Graphs (3.3)</url></p>
+        <p><url href="https://openstax.org/books/college-algebra-2e/pages/2-4-complex-numbers">Complex Numbers (2.4)</url></p>
+        <p><url href="https://openstax.org/books/college-algebra-2e/pages/5-1-quadratic-functions">Quadratic Functions (5.1)</url></p>
+        <p><url href="https://openstax.org/books/college-algebra-2e/pages/2-5-quadratic-equations">Quadratic Equations (2.5)</url></p>
+        <p><url href="https://openstax.org/books/college-algebra-2e/pages/2-6-other-types-of-equations">Other Types of Equations (2.6)</url></p>
+        <p><url href="https://openstax.org/books/college-algebra-2e/pages/3-4-composition-of-functions">Composition of Functions (3.4)</url></p>
+        <p><url href="https://openstax.org/books/college-algebra-2e/pages/3-5-transformation-of-functions">Transformation of Functions (3.5)</url></p>
+        <p><url href="https://openstax.org/books/college-algebra-2e/pages/3-7-inverse-functions">Inverse Functions (3.7)</url></p>
+        <p><url href="https://openstax.org/books/college-algebra-2e/pages/5-2-power-functions-and-polynomial-functions
+">Power Functions (5.2)</url></p>
+        <p><url href="https://openstax.org/books/college-algebra-2e/pages/6-1-exponential-functions">Exponential Functions (6.1)</url></p>
+        <p><url href="https://openstax.org/books/college-algebra-2e/pages/6-2-graphs-of-exponential-functions">Graphs of Exponential Functions (6.2)</url></p>
+        <p><url href="https://openstax.org/books/college-algebra-2e/pages/6-3-logarithmic-functions">Logarithmic Functions (6.3)</url></p>
+        <p><url href="https://openstax.org/books/college-algebra-2e/pages/6-4-graphs-of-logarithmic-functions">Graphs of Logarithmic Functions (6.4)</url></p>
+        <p><url href="https://openstax.org/books/college-algebra-2e/pages/6-5-logarithmic-properties">Logarithmic Properties (6.5)</url></p>
+        <p><url href="https://openstax.org/books/college-algebra-2e/pages/6-6-exponential-and-logarithmic-equations">Exponential and Logarithmic Equations (6.6)</url></p>
     </subsection>
 </section>
