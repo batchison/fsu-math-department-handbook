@@ -73,31 +73,13 @@ var ptx_lunr_docs = [
   "body": " Clubs and Student Involvement   Math Club  The Math Club is a student-led organization that periodically coordinates social gatherings, student and faculty presentations, and other events. Math Club membership is comprised of students from a variety of majors who have an interest in and appreciation for all things math-related.  Students who are interested in joining the Math Club or attending future events should contact the department Chair.    STEM Club  The STEM Club is a student-led organization that periodically coordinates social gatherings, student and faculty presentations, and other events. STEM Club membership is comprised of students from a variety of STEM departments and majors who have an interest in and appreciation for all things STEM-related.  Students who are interested in joining the STEM Club or attending future events should contact the department Chair or Dean of STEM.    Conferences  Occasionally during the school year, the department will coordinate student attendance at regional and national conferences. These conferences provide students with the opportunity to present their research, attend talks by undergraduates, graduate students, and faculty, and network with other students and faculty from around Massachusetts and New England.  Funding is often available through the department and College of STEM to offset student registration costs for attending local conferences. If you are interested in attending a conference or learning more about the events going on in the region, contact the department Chair, your instructor, or your appointed advisor.  MAA Northeastern Section Events Page  MAA National Events Page  AMS National & Sectional Events Page   "
 },
 {
-  "id": "sec-volume-assignment",
+  "id": "math123",
   "level": "1",
-  "url": "sec-volume-assignment.html",
+  "url": "math123.html",
   "type": "Section",
   "number": "",
-  "title": "MATH 220 Project - Cup Design",
-  "body": " MATH 220 Project - Cup Design  This is a sample assignment for students enrolled in MATH 220.  The primary objective of this assignment is for students to design a model for a 3D-printed cup or vessel using both Desmos and Autodesk Fusion 360. Ultimately, students should be able to obtain a 3D-printed version of their design through the STEM departments or FSU IT Services. Below are the requirements for a finished cup design.   Standard dimensions should be metric (centimeters and millimeters preferred).    All designs must have a minimum base radius of 2 centimeters and a minimum height of 10 centimeters.    Designs must hold a minimum volume of half a liter, maximum 550 mL.     For this assignment, students should complete the following.   Watch the following video in its entirety:     Use Desmos to create a 2D cross-section of a cup design.   2D cross-sections should be located in Quadrant I, and represent the area to be rotated about the or axis.    Only non-linear functions should be used for the vertical walls of the resulting solid.    Using the same Desmos page, evaluate integrals for both the volume contained from the resulting solid and the amount of material needed for design construction.    The resulting Desmos page should be saved and a link to the page shared with the instructor. Because of this, it is recommended that students create a free Desmos account before getting started.    The following link is meant as a guiding example. It is more complicated than is necessary for completing this part of the assignment. Desmos Example        Create a free student account for Autodesk Fusion 360. using Autodesk Fusion 360 and the referenced video, generate a rendering of the 3D solid that can be used for printing purposes. Email a copy of your 3D rendering to the instructor.       2D region created in Desmos   Desmos Example     3D solid generated using Autodesk Fusion 360   Autodesk Example     Wall bounding functions are:   Base is 1\/2cm thick (twice the wall thickness).  Capacity:   Amount of material used for printing:   3D-printer owned by J. Shearstone. The dimensions of the actual cup are smaller than those calculated using Desmos. This is due to a change in scale from concept to finished product.  "
-},
-{
-  "id": "desmos-example",
-  "level": "2",
-  "url": "sec-volume-assignment.html#desmos-example",
-  "type": "Figure",
-  "number": "1",
-  "title": "",
-  "body": " 2D region created in Desmos   Desmos Example   "
-},
-{
-  "id": "autodesk-example",
-  "level": "2",
-  "url": "sec-volume-assignment.html#autodesk-example",
-  "type": "Figure",
-  "number": "2",
-  "title": "",
-  "body": " 3D solid generated using Autodesk Fusion 360   Autodesk Example   "
+  "title": "MATH 123 Introduction to Functions",
+  "body": " MATH 123 Introduction to Functions   Beginning in AY 2026-27, the MATH 123 Introduction to Functions course will use a common open educational resource as its primary text. This decision was made to both reduce required material costs for students and streamline the learning experience across all sections of the course.  For the current academic year, the Mathematics department had selected OpenStax's College Algebra 2e as the required MATH 123 textbook.    Course Topics & Suggested Ordering  Below is a suggested ordering of topics that should be covered in MATH 123, as well as links to the corresponding section in the course textbook. While the ordering of topics is ultimately up to the instructor, it is expected that a majority of the topics listed below will be treated and assessed in the course.  The Rectangular Coordinate Systems and Graphs (OpenStax Section 2.1)  Functions and Function Notation (3.1)  Linear Functions (4.1)  Linear Equations in One Variable (2.2)  Linear Models and Applications (2.3)  Absolute Value Functions (3.6)  Linear Inequalities and Absolute Value Inequalities (2.7)  Systems of Linear Equations: Two Variables (7.1)  Domain and Range (3.2)  Rates of Change and Behavior of Graphs (3.3)  Complex Numbers (2.4)  Quadratic Functions (5.1)  Quadratic Equations (2.5)  Other Types of Equations (2.6)  Composition of Functions (3.4)  Transformation of Functions (3.5)  Inverse Functions (3.7)  Power Functions and Polynomial Functions (5.2)  Note: Only power functions should be covered. Polynomials will be treated in MATH 180.  Exponential Functions (6.1)  Graphs of Exponential Functions (6.2)  Logarithmic Functions (6.3)  Graphs of Logarithmic Functions (6.4)  Logarithmic Properties (6.5)  Exponential and Logarithmic Equations (6.6)  If time permits, the following topics could also be covered at the instructor's discretion.  Modeling with Linear Functions (4.2)  Fitting Linear Models to Data (4.3)  Modeling Using Variation (5.8)  Exponential and Logarithmic Models (6.7)   "
 }
 ]
 

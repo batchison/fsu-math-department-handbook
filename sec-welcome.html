@@ -35,11 +35,11 @@ window.MathJax = {
     "packages": {
       "[+]": [
         "base",
-        "extpfeil",
         "ams",
         "amscd",
         "color",
         "newcommand",
+        "textmacros",
         "knowl"
       ]
     }
@@ -55,10 +55,10 @@ window.MathJax = {
   "loader": {
     "load": [
       "input/asciimath",
-      "[tex]/extpfeil",
       "[tex]/amscd",
       "[tex]/color",
       "[tex]/newcommand",
+      "[tex]/textmacros",
       "[pretext]/mathjaxknowl3.js"
     ],
     "paths": {
@@ -99,15 +99,15 @@ eBookConfig.allow_pairs = false;
 eBookConfig.enableScratchAC = false;
 eBookConfig.build_info = "";
 eBookConfig.python3 = null;
-eBookConfig.runestone_version = '7.11.17';
+eBookConfig.runestone_version = '8.1.1';
 eBookConfig.jobehost = '';
 eBookConfig.proxyuri_runs = '';
 eBookConfig.proxyuri_files = '';
 eBookConfig.enable_chatcodes =  false;
 </script>
 <!--*** Runestone Services ***-->
-<script src="_static/prefix-runtime.86a1bdf80f338ffc.bundle.js"></script><script src="_static/prefix-723.3e6434f80549315a.bundle.js"></script><script src="_static/prefix-runestone.98ef3b0c170cd180.bundle.js"></script><link rel="stylesheet" type="text/css" href="_static/prefix-723.3bccd435914aa0ff.css">
-<link rel="stylesheet" type="text/css" href="_static/prefix-runestone.74f6fa0c85f09c79.css">
+<script src="_static/prefix-runtime.dcab57465a404e85.bundle.js"></script><script src="_static/prefix-713.de0ab26248766350.bundle.js"></script><script src="_static/prefix-runestone.79fbb790b185d712.bundle.js"></script><link rel="stylesheet" type="text/css" href="_static/prefix-713.f43ced6a6134ea74.css">
+<link rel="stylesheet" type="text/css" href="_static/prefix-runestone.87414d180ebeebd6.css">
 <script src="_static/pretext/js/lti_iframe_resizer.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/lunr.js/2.3.9/lunr.min.js" integrity="sha512-4xUl/d6D6THrAnXAwGajXkoWaeMNwEKK4iNfq5DotEbLPAfk6FSxSP3ydNxqDgCw1c/0Z1Jg6L8h2j+++9BZmg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script><script src="lunr-pretext-search-index.js" async=""></script><script src="_static/pretext/js/pretext_search.js"></script><script src="_static/pretext/js/knowl.js"></script><!--knowl.js code controls Sage Cells within knowls--><script>sagecellEvalName='Evaluate (Sage)';
 </script>
 </head>
@@ -197,12 +197,18 @@ eBookConfig.enable_chatcodes =  false;
 <li class="toc-item toc-subsection"><div class="toc-title-box"><a href="clubs.html#subsec-conferences" class="internal"><span class="title">Conferences</span></a></div></li>
 </ul>
 </li>
-<li class="toc-item toc-section"><div class="toc-title-box"><a href="sec-volume-assignment.html" class="internal"><span class="title">MATH 220 Project - Cup Design</span></a></div></li>
+<li class="toc-item toc-section">
+<div class="toc-title-box"><a href="math123.html" class="internal"><span class="title">MATH 123 Introduction to Functions</span></a></div>
+<ul class="structural toc-item-list"><li class="toc-item toc-subsection"><div class="toc-title-box"><a href="math123.html#math123-mapping" class="internal"><span class="title">Course Topics &amp; Suggested Ordering</span></a></div></li></ul>
+</li>
 </ul></nav></div>
-<main class="ptx-main"><div id="ptx-content" class="ptx-content"><section class="section" id="sec-welcome"><h2 class="heading hide-type">
+<main class="ptx-main"><div id="ptx-content" class="ptx-content">
+<section class="section" id="sec-welcome">
+<h2 class="heading hide-type">
 <span class="type">Section</span><span class="space heading-divison-mark heading-divison-mark__space"> </span><span class="codenumber"></span><span class="space heading-divison-mark heading-divison-mark__space"> </span><span class="title">Welcome and Departmental Mission</span>
 </h2>
-<section class="subsection" id="subsec-word"><h3 class="heading hide-type">
+<section class="subsection" id="subsec-word">
+<h3 class="heading hide-type">
 <span class="type">Subsection</span><span class="space heading-divison-mark heading-divison-mark__space"> </span><span class="codenumber"></span><span class="space heading-divison-mark heading-divison-mark__space"> </span><span class="title">A Word to the Major</span>
 </h3>
 <div class="para" id="subsec-word-2">The Mathematics Department would like to welcome you as one of our majors. This planning guide is intended to help you in selecting your courses in their proper sequence and to give you direction in your overall program of study. You are not alone in this process. Although you are primarily responsible for your schedule, you will be assigned an advisor who can help answer questions you may have about the program and course selections. It is important to keep in mind that not all courses are offered every semester and some upper level courses are only offered in alternate years. It is also important to be sure you have satisfied the prerequisites for each course.<div class="autopermalink" data-description="Paragraph"><a href="#subsec-word-2" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
@@ -213,7 +219,10 @@ eBookConfig.enable_chatcodes =  false;
 </div>
 <div class="para" id="subsec-word-5">Congratulations on your choice of school and major.<div class="autopermalink" data-description="Paragraph"><a href="#subsec-word-5" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
 </div>
-<div class="autopermalink" data-description="Subsection: A Word to the Major"><a href="#subsec-word" title="Copy heading and permalink for Subsection: A Word to the Major" aria-label="Copy heading and permalink for Subsection: A Word to the Major">🔗</a></div></section><section class="subsection" id="subsec-mission"><h3 class="heading hide-type">
+<div class="autopermalink" data-description="Subsection: A Word to the Major"><a href="#subsec-word" title="Copy heading and permalink for Subsection: A Word to the Major" aria-label="Copy heading and permalink for Subsection: A Word to the Major">🔗</a></div>
+</section>
+<section class="subsection" id="subsec-mission">
+<h3 class="heading hide-type">
 <span class="type">Subsection</span><span class="space heading-divison-mark heading-divison-mark__space"> </span><span class="codenumber"></span><span class="space heading-divison-mark heading-divison-mark__space"> </span><span class="title">Mission</span>
 </h3>
 <div class="para" id="subsec-mission-2">The mission of the Mathematics Department is twofold. Firstly, we provide a strong, broadbased preparation in mathematics and its related skills to enable the student to select a variety of career paths in which the knowledge and intellectual skills of mathematics can be applied. Secondly, we function as a service department to other programs on the campus.<div class="autopermalink" data-description="Paragraph"><a href="#subsec-mission-2" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
@@ -224,7 +233,10 @@ eBookConfig.enable_chatcodes =  false;
 </div>
 <div class="para" id="subsec-mission-5">In order to carry out its mission, the Mathematics Department strives to meet the needs of a diverse campus and student body through periodic assessment of its course and program offerings. The faculty is committed to developing and improving students’ problem solving and reasoning skills, as well as their mathematical knowledge, in order to prepare them to face the challenges of the twenty-first century. The department will continue to offer programs to meet the ever-changing needs of the students and the nation. Our continuing goal is the achievement of excellence and scholarship by all our students.<div class="autopermalink" data-description="Paragraph"><a href="#subsec-mission-5" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
 </div>
-<div class="autopermalink" data-description="Subsection: Mission"><a href="#subsec-mission" title="Copy heading and permalink for Subsection: Mission" aria-label="Copy heading and permalink for Subsection: Mission">🔗</a></div></section><div class="autopermalink" data-description="Section: Welcome and Departmental Mission"><a href="#sec-welcome" title="Copy heading and permalink for Section: Welcome and Departmental Mission" aria-label="Copy heading and permalink for Section: Welcome and Departmental Mission">🔗</a></div></section></div>
+<div class="autopermalink" data-description="Subsection: Mission"><a href="#subsec-mission" title="Copy heading and permalink for Subsection: Mission" aria-label="Copy heading and permalink for Subsection: Mission">🔗</a></div>
+</section><div class="autopermalink" data-description="Section: Welcome and Departmental Mission"><a href="#sec-welcome" title="Copy heading and permalink for Section: Welcome and Departmental Mission" aria-label="Copy heading and permalink for Section: Welcome and Departmental Mission">🔗</a></div>
+</section>
+</div>
 <div id="ptx-content-footer" class="ptx-content-footer">
 <a class="previous-button button" href="frontmatter.html" title="Previous"><span class="icon material-symbols-outlined" aria-hidden="true">&#xe5cb;</span><span class="name">Prev</span></a><a class="top-button button" href="#" title="Top"><span class="icon material-symbols-outlined" aria-hidden="true">&#xe5ce;</span><span class="name">Top</span></a><a class="next-button button" href="Faculty.html" title="Next"><span class="name">Next</span><span class="icon material-symbols-outlined" aria-hidden="true">&#xe5cc;</span></a>
 </div></main>
