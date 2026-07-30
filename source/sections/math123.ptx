@@ -5,40 +5,48 @@
         <p>Beginning in AY 2026-27, the MATH 123 Introduction to Functions course will use a common open educational resource as its primary text.  This decision was made to both reduce required material costs for students and streamline the learning experience across all sections of the course.</p>
         <p>For the current academic year, the Mathematics department had selected <url href="https://openstax.org/details/books/college-algebra-2e">OpenStax's College Algebra 2e</url> as the required MATH 123 textbook.</p>
     </introduction>
-    <subsection xml:id="math123-mapping">
-        <title>Course Topics &amp; Suggested Ordering</title>
-        <p>Below is a suggested ordering of topics that should be covered in MATH 123, as well as links to the corresponding section in the course textbook.  While the ordering of topics is ultimately up to the instructor, it is expected that a majority of the topics listed below will be treated and assessed in the course.</p>
-        <p><url href="https://openstax.org/books/college-algebra-2e/pages/2-1-the-rectangular-coordinate-systems-and-graphs">The Rectangular Coordinate Systems and Graphs (OpenStax Section 2.1)</url></p>
-        <p><url href="https://openstax.org/books/college-algebra-2e/pages/3-1-functions-and-function-notation">Functions and Function Notation (3.1)</url></p>
-        <p><url href="https://openstax.org/books/college-algebra-2e/pages/4-1-linear-functions">Linear Functions (4.1)</url></p>
-        <p><url href="https://openstax.org/books/college-algebra-2e/pages/2-2-linear-equations-in-one-variable">Linear Equations in One Variable (2.2)</url></p>
-        <p><url href="https://openstax.org/books/college-algebra-2e/pages/2-3-models-and-applications">Linear Models and Applications (2.3)</url></p>
-        <p><url href="https://openstax.org/books/college-algebra-2e/pages/3-6-absolute-value-functions">Absolute Value Functions (3.6)</url></p>
-        <p><url href="https://openstax.org/books/college-algebra-2e/pages/2-7-linear-inequalities-and-absolute-value-inequalities">Linear Inequalities and Absolute Value Inequalities (2.7)</url></p>
-        <p><url href="https://openstax.org/books/college-algebra-2e/pages/7-1-systems-of-linear-equations-two-variables">Systems of Linear Equations: Two Variables (7.1)</url></p>
+    <subsection xml:id="math123-core-mapping">
+        <title>Core Course Topics &amp; Recommended Ordering</title>
+        <p>Below is a recommended ordering of topics that should be covered in MATH 123, as well as links to the corresponding section in the course textbook.  The ordering of topics is ultimately up to the instructor.  The topics listed below represent the essential core content that will be treated and assessed by each instructor.</p>
+        <p><url href="https://openstax.org/books/college-algebra-2e/pages/3-1-functions-and-function-notation">Functions and Function Notation (OpenStax Section 3.1)</url></p>
+        <p>Comprehensive coverage of this first section is critical for setting a tone for the course.  A thorough treatment of the toolkit functions (including basic power functions), their graphs, and end behavior is recommended and should enable instructors to avoid the need to discuss Section 5.2.  This approach should also help to support student learning in later chapters (exponentials and logarithms).  Semicircular functions centered at the origin could also be introduced.</p>
         <p><url href="https://openstax.org/books/college-algebra-2e/pages/3-2-domain-and-range">Domain and Range (3.2)</url></p>
         <p><url href="https://openstax.org/books/college-algebra-2e/pages/3-3-rates-of-change-and-behavior-of-graphs">Rates of Change and Behavior of Graphs (3.3)</url></p>
-        <p><url href="https://openstax.org/books/college-algebra-2e/pages/2-4-complex-numbers">Complex Numbers (2.4)</url></p>
-        <p><url href="https://openstax.org/books/college-algebra-2e/pages/5-1-quadratic-functions">Quadratic Functions (5.1)</url></p>
+        <p><url href="https://openstax.org/books/college-algebra-2e/pages/4-1-linear-functions">Linear Functions (4.1)</url></p>
+        <p><url href="https://openstax.org/books/college-algebra-2e/pages/4-2-modeling-with-linear-functions">Modeling with Linear Functions (4.2)</url></p>
+        <p><url href="https://openstax.org/books/college-algebra-2e/pages/7-1-systems-of-linear-equations-two-variables">Systems of Linear Equations: Two Variables (7.1)</url></p>
+        <p><url href="https://openstax.org/books/college-algebra-2e/pages/2-7-linear-inequalities-and-absolute-value-inequalities">Linear Inequalities and Absolute Value Inequalities (2.7)</url></p>
+        <p><url href="https://openstax.org/books/college-algebra-2e/pages/3-6-absolute-value-functions">Absolute Value Functions (3.6)</url></p>
+        <p> The order of Sections 2.7 and 3.6, as well as the decision to cover them one at a time or simultaneously, is ultimately up to the instructor.</p> 
+        <p><url href="https://openstax.org/books/college-algebra-2e/pages/5-8-modeling-using-variation">Modeling Using Variation (5.8)</url></p>
         <p><url href="https://openstax.org/books/college-algebra-2e/pages/2-5-quadratic-equations">Quadratic Equations (2.5)</url></p>
-        <p><url href="https://openstax.org/books/college-algebra-2e/pages/2-6-other-types-of-equations">Other Types of Equations (2.6)</url></p>
+        <p><url href="https://openstax.org/books/college-algebra-2e/pages/5-1-quadratic-functions">Quadratic Functions (5.1)</url></p>
+        <p> The order of Sections 2.5 and 5.1, as well as the decision to cover them one at a time or simultaneously, is ultimately up to the instructor.  Additionally, instructors are discouraged from covering Section 2.4 Complex Numbers in its entirety.  A discussion around complex numbers and how they relate to quadratic functions, their roots, and cooresponding x-intercepts should suffice for student understanding of quadratics at a foundational level.</p> 
         <p><url href="https://openstax.org/books/college-algebra-2e/pages/3-4-composition-of-functions">Composition of Functions (3.4)</url></p>
         <p><url href="https://openstax.org/books/college-algebra-2e/pages/3-5-transformation-of-functions">Transformation of Functions (3.5)</url></p>
         <p><url href="https://openstax.org/books/college-algebra-2e/pages/3-7-inverse-functions">Inverse Functions (3.7)</url></p>
-        <p><url href="https://openstax.org/books/college-algebra-2e/pages/5-2-power-functions-and-polynomial-functions
-">Power Functions and Polynomial Functions (5.2)</url></p>
-<p>Note: Only power functions should be covered.  Polynomials will be treated in MATH 180.</p>
         <p><url href="https://openstax.org/books/college-algebra-2e/pages/6-1-exponential-functions">Exponential Functions (6.1)</url></p>
         <p><url href="https://openstax.org/books/college-algebra-2e/pages/6-2-graphs-of-exponential-functions">Graphs of Exponential Functions (6.2)</url></p>
         <p><url href="https://openstax.org/books/college-algebra-2e/pages/6-3-logarithmic-functions">Logarithmic Functions (6.3)</url></p>
         <p><url href="https://openstax.org/books/college-algebra-2e/pages/6-4-graphs-of-logarithmic-functions">Graphs of Logarithmic Functions (6.4)</url></p>
         <p><url href="https://openstax.org/books/college-algebra-2e/pages/6-5-logarithmic-properties">Logarithmic Properties (6.5)</url></p>
         <p><url href="https://openstax.org/books/college-algebra-2e/pages/6-6-exponential-and-logarithmic-equations">Exponential and Logarithmic Equations (6.6)</url></p>
-        <p>If time permits, the following topics could also be covered at the instructor's discretion.</p>
-        <p><url href="https://openstax.org/books/college-algebra-2e/pages/4-2-modeling-with-linear-functions">Modeling with Linear Functions (4.2)</url></p>
-        <p><url href="https://openstax.org/books/college-algebra-2e/pages/4-3-fitting-linear-models-to-data">Fitting Linear Models to Data (4.3)</url></p>
-        <p><url href="https://openstax.org/books/college-algebra-2e/pages/5-8-modeling-using-variation">Modeling Using Variation (5.8)</url></p>
-        <p><url href="https://openstax.org/books/college-algebra-2e/pages/6-7-exponential-and-logarithmic-models">Exponential and Logarithmic Models (6.7)</url></p>
+    </subsection>
+    <subsection xml:id="math123-prerequisites">
+        <title>Additional Prerequisite Course Topics</title>
+        <p>While the sections listed above represent the essential core concepts that must be treated, instructors may also decide to include any subset of the sections listed below in their treatment of the course.  Each section/topic could be considered either as prerequisite content (also suitable for recitation discussion) or a reinforcement of a core topic listed above.</p>
+        <p>Included in this list is a thorough treatment of representing sets using graphical, inequality, or interval notation (including unions and intersections).</p>
+        <p><url href="https://openstax.org/books/college-algebra-2e/pages/2-1-the-rectangular-coordinate-systems-and-graphs">The Rectangular Coordinate Systems and Graphs (2.1)</url></p>
+        <p><url href="https://openstax.org/books/college-algebra-2e/pages/2-2-linear-equations-in-one-variable">Linear Equations in One Variable (2.2)</url></p>
+        <p><url href="https://openstax.org/books/college-algebra-2e/pages/2-3-models-and-applications">Linear Models and Applications (2.3)</url></p>
+        <p><url href="https://openstax.org/books/college-algebra-2e/pages/2-4-complex-numbers">Complex Numbers (2.4)</url></p>
+        <p><url href="https://openstax.org/books/college-algebra-2e/pages/2-6-other-types-of-equations">Other Types of Equations (2.6)</url></p>
+        <p><url href="https://openstax.org/books/college-algebra-2e/pages/5-2-power-functions-and-polynomial-functions
+">Power Functions and Polynomial Functions (5.2)</url></p>
+        <p>Only power functions.  Polynomials will be treated in MATH 180.</p>
 
+<!--<p>If time permits, the following topics could also be covered at the instructor's discretion.</p>
+        <p><url href="https://openstax.org/books/college-algebra-2e/pages/4-3-fitting-linear-models-to-data">Fitting Linear Models to Data (4.3)</url></p>
+        <p><url href="https://openstax.org/books/college-algebra-2e/pages/6-7-exponential-and-logarithmic-models">Exponential and Logarithmic Models (6.7)</url></p>-->
     </subsection>
 </section>
